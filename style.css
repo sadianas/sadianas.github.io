@@ -108,9 +108,8 @@ text-transform: uppercase;
 letter-spacing: 0.1em;
 }
 
-.post-content  p:nth-child(even){
-
- color:gray;
+.post-container:nth-child(even){
+  background-color: #f2f2f2;
 }
 
 .about{
